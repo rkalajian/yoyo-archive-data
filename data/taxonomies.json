@@ -1,0 +1,309 @@
+{
+    "yya_category": [
+        {
+            "slug": "collecting",
+            "name": "Collecting",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "crafting",
+            "name": "Crafting",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "guide",
+            "name": "Guide",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "history",
+            "name": "History",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "multimedia",
+            "name": "Multimedia",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "print",
+            "name": "Print",
+            "description": "",
+            "parent": ""
+        }
+    ],
+    "yya_material": [
+        {
+            "slug": "6061",
+            "name": "6061",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "6065",
+            "name": "6065",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "6082",
+            "name": "6082",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "7003",
+            "name": "7003",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "7068",
+            "name": "7068",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "7075",
+            "name": "7075",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "7175",
+            "name": "7175",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "aluminum",
+            "name": "Aluminum",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "brass",
+            "name": "Brass",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "copper",
+            "name": "Copper",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "damascus-steel",
+            "name": "Damascus Steel",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "delrin",
+            "name": "Delrin",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "duralumin",
+            "name": "duralumin",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "magnesium",
+            "name": "Magnesium",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "pla",
+            "name": "PLA",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "plastic",
+            "name": "Plastic",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "polycarbonate",
+            "name": "Polycarbonate",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "polyester",
+            "name": "polyester",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "pom",
+            "name": "POM",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "resin",
+            "name": "Resin",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "stainless-steel",
+            "name": "Stainless Steel",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "stainless-steel-rims",
+            "name": "Stainless Steel Rims",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "sterling-silver",
+            "name": "Sterling Silver",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "titanium",
+            "name": "Titanium",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "ultem",
+            "name": "Ultem",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "wood",
+            "name": "Wood",
+            "description": "",
+            "parent": ""
+        }
+    ],
+    "yya_play_style": [
+        {
+            "slug": "0a",
+            "name": "0A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "1a",
+            "name": "1A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "2a",
+            "name": "2A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "3a",
+            "name": "3A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "4a",
+            "name": "4A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "5a",
+            "name": "5A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "ap",
+            "name": "AP",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "b-division",
+            "name": "b-division",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "doc-luckys-duos",
+            "name": "Doc Lucky's Duos",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "international-1a",
+            "name": "International 1A",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "junior-1a",
+            "name": "Junior",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "over-40",
+            "name": "Over 40",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "sport",
+            "name": "Sport",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "under-12",
+            "name": "Under 12",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "wom",
+            "name": "Wom",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "womens-freestyle",
+            "name": "Women's Freestyle",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "x",
+            "name": "x",
+            "description": "",
+            "parent": ""
+        },
+        {
+            "slug": "x-division",
+            "name": "X Division",
+            "description": "",
+            "parent": ""
+        }
+    ],
+    "yya_media_type": []
+}

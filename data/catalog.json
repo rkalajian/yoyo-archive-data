@@ -1,0 +1,565 @@
+[
+    {
+        "id": 12300,
+        "slug": "1977-duncan-product-catalog",
+        "url": "https://yoyoarchive.org/catalogs/1977-duncan-product-catalog",
+        "type": "catalog",
+        "title": "1977 Duncan Product Catalog",
+        "date_modified": "1977-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "1977",
+            "yya_files": [
+                {
+                    "url": "http://www.yoyomuseum.com/uploads/PDF/duncan1977optimized.pdf",
+                    "title": "1977 Duncan Product Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 1065
+    },
+    {
+        "id": 12301,
+        "slug": "1979-duncan-product-catalog",
+        "url": "https://yoyoarchive.org/catalogs/1979-duncan-product-catalog",
+        "type": "catalog",
+        "title": "1979 Duncan Product Catalog",
+        "date_modified": "1979-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "1979",
+            "yya_files": [
+                {
+                    "url": "https://www.mediafire.com/file/4ve87o7ettscgy7/duncan1979catalog.pdf/file",
+                    "title": "1979 Duncan Product Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 1066
+    },
+    {
+        "id": 13098,
+        "slug": "1996-infinite-illusions-summer-fall-catalog",
+        "url": "https://yoyoarchive.org/catalogs/1996-infinite-illusions-summer-fall-catalog",
+        "type": "catalog",
+        "title": "1996 Infinite Illusions Summer/Fall Catalog",
+        "date_modified": "1996-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "1996",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/1996/07/II1996.pdf",
+                    "title": "1996 Infinite Illusions Summer/Fall Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "infinite-illusions",
+                    "url": "https://yoyoarchive.org/companies/infinite-illusions",
+                    "title": "Infinite Illusions"
+                }
+            ]
+        },
+        "folio": 1307
+    },
+    {
+        "id": 13100,
+        "slug": "1997-infinite-illusions-retail-catalog",
+        "url": "https://yoyoarchive.org/catalogs/1997-infinite-illusions-retail-catalog",
+        "type": "catalog",
+        "title": "1997 Infinite Illusions Retail Catalog",
+        "date_modified": "1997-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "1997",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/1997/07/II97-98.pdf",
+                    "title": "1997 Infinite Illusions Retail Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "infinite-illusions",
+                    "url": "https://yoyoarchive.org/companies/infinite-illusions",
+                    "title": "Infinite Illusions"
+                }
+            ]
+        },
+        "folio": 1308
+    },
+    {
+        "id": 13102,
+        "slug": "1999-infinite-illusions-spring-summer-catalog",
+        "url": "https://yoyoarchive.org/catalogs/1999-infinite-illusions-spring-summer-catalog",
+        "type": "catalog",
+        "title": "1999 Infinite Illusions Spring/Summer Catalog",
+        "date_modified": "1999-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "1999",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/1999/07/II1999.pdf",
+                    "title": "1999 Infinite Illusions Spring/Summer Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "infinite-illusions",
+                    "url": "https://yoyoarchive.org/companies/infinite-illusions",
+                    "title": "Infinite Illusions"
+                }
+            ]
+        },
+        "folio": 1309
+    },
+    {
+        "id": 13104,
+        "slug": "2001-infinite-illusions-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2001-infinite-illusions-catalog",
+        "type": "catalog",
+        "title": "2001 Infinite Illusions Catalog",
+        "date_modified": "2001-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2001",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2001/07/II2001.pdf",
+                    "title": "2001 Infinite Illusions Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "infinite-illusions",
+                    "url": "https://yoyoarchive.org/companies/infinite-illusions",
+                    "title": "Infinite Illusions"
+                }
+            ]
+        },
+        "folio": 1310
+    },
+    {
+        "id": 12302,
+        "slug": "2003-duncan-product-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2003-duncan-product-catalog",
+        "type": "catalog",
+        "title": "2003 Duncan Product Catalog",
+        "date_modified": "2003-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2003",
+            "yya_files": [
+                {
+                    "url": "http://www.yoyomuseum.com/PDFs/Exhibits/duncan2003.pdf",
+                    "title": "2003 Duncan Product Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 1067
+    },
+    {
+        "id": 19862,
+        "slug": "2008-henrys-juggling-equipment-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2008-henrys-juggling-equipment-catalog",
+        "type": "catalog",
+        "title": "2008 Henrys Juggling Equipment Catalog",
+        "date_modified": "2008-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2008",
+            "yya_files": [
+                {
+                    "url": "https://www.yumpu.com/en/document/view/2942030/professional-juggling-equipment-henrys",
+                    "title": "2008 Henrys Juggling Equipment Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "henrys",
+                    "url": "https://yoyoarchive.org/companies/henrys",
+                    "title": "Henrys"
+                }
+            ]
+        },
+        "folio": 2772
+    },
+    {
+        "id": 19863,
+        "slug": "2010-henrys-juggling-equipment-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2010-henrys-juggling-equipment-catalog",
+        "type": "catalog",
+        "title": "2010 Henrys Juggling Equipment Catalog",
+        "date_modified": "2010-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2010",
+            "yya_files": [
+                {
+                    "url": "https://www.yumpu.com/en/document/view/2942160/2010-henrys",
+                    "title": "2010 Henrys Juggling Equipment Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "henrys",
+                    "url": "https://yoyoarchive.org/companies/henrys",
+                    "title": "Henrys"
+                }
+            ]
+        },
+        "folio": 2773
+    },
+    {
+        "id": 19859,
+        "slug": "2012-yoyofactory-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2012-yoyofactory-catalog",
+        "type": "catalog",
+        "title": "2012 YoyoFactory Catalog",
+        "date_modified": "2012-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2012",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2012/07/YoYoFactory-Catalog-2012.pdf",
+                    "title": "2012 YoyoFactory Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofactory",
+                    "url": "https://yoyoarchive.org/companies/yoyofactory",
+                    "title": "YoyoFactory<span style=\"color:var(--wp--preset--color--crimson)\" aria-hidden=\"true\">*</span>"
+                }
+            ]
+        },
+        "folio": 2771
+    },
+    {
+        "id": 12303,
+        "slug": "2020-duncan-product-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2020-duncan-product-catalog",
+        "type": "catalog",
+        "title": "2020 Duncan Product Catalog",
+        "date_modified": "2020-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2020",
+            "yya_files": [
+                {
+                    "url": "http://anyflip.com/wqzql/peho/basic",
+                    "title": "2020 Duncan Product Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 1068
+    },
+    {
+        "id": 12304,
+        "slug": "2022-duncan-product-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2022-duncan-product-catalog",
+        "type": "catalog",
+        "title": "2022 Duncan Product Catalog",
+        "date_modified": "2022-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2022",
+            "yya_files": [
+                {
+                    "url": "https://anyflip.com/wmyeq/ijke/basic",
+                    "title": "2022 Duncan Product Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 1069
+    },
+    {
+        "id": 12486,
+        "slug": "2025-yomega-wholesale-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2025-yomega-wholesale-catalog",
+        "type": "catalog",
+        "title": "2025 Yomega Wholesale Catalog",
+        "date_modified": "2025-07-01",
+        "content": "",
+        "meta": {
+            "yya_date": "2025",
+            "yya_files": [
+                {
+                    "url": "https://static1.squarespace.com/static/5258a219e4b00f431dc43607/t/67bdef85c592d1084c94bb67/1740500878293/Yomega+2025+Catalog+digital.pdf",
+                    "title": "2025 Yomega Wholesale Catalog",
+                    "type": "pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yomega",
+                    "url": "https://yoyoarchive.org/companies/yomega",
+                    "title": "Yomega"
+                }
+            ]
+        },
+        "folio": 1156
+    },
+    {
+        "id": 12403,
+        "slug": "2026-yomega-wholesale-catalog",
+        "url": "https://yoyoarchive.org/catalogs/2026-yomega-wholesale-catalog",
+        "type": "catalog",
+        "title": "2026 Yomega Wholesale Catalog",
+        "date_modified": "2026-05-31",
+        "content": "",
+        "meta": {
+            "yya_date": "2026",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/05/yomega-2026-wholesale-catalog.pdf",
+                    "title": "2026 Yomega Wholesale Catalog",
+                    "type": "application/pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yomega",
+                    "url": "https://yoyoarchive.org/companies/yomega",
+                    "title": "Yomega"
+                }
+            ]
+        },
+        "folio": 1084
+    },
+    {
+        "id": 3799,
+        "slug": "duncan-1983",
+        "url": "https://yoyoarchive.org/catalogs/duncan-1983",
+        "type": "catalog",
+        "title": "1983 Duncan Product Catalog",
+        "date_modified": "2026-05-20",
+        "content": "",
+        "meta": {
+            "yya_date": "1983",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2024/07/1983-Duncan-Catalog.pdf",
+                    "title": "1983 Duncan Catalog",
+                    "type": "application/pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 106
+    },
+    {
+        "id": 6300,
+        "slug": "duncan-2023",
+        "url": "https://yoyoarchive.org/catalogs/duncan-2023",
+        "type": "catalog",
+        "title": "2023 Duncan Product Catalog",
+        "date_modified": "2026-05-20",
+        "content": "",
+        "meta": {
+            "yya_date": "2023",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2025/03/2023_Duncan_Catalog.pdf",
+                    "title": "2023_Duncan_Catalog",
+                    "type": "application/pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 351
+    },
+    {
+        "id": 6298,
+        "slug": "duncan-2024",
+        "url": "https://yoyoarchive.org/catalogs/duncan-2024",
+        "type": "catalog",
+        "title": "2024 Duncan Product Catalog",
+        "date_modified": "2026-05-20",
+        "content": "",
+        "meta": {
+            "yya_date": "2024",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2025/03/2024_Duncan_Catalog.pdf",
+                    "title": "2024_Duncan_Catalog",
+                    "type": "application/pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 350
+    },
+    {
+        "id": 6296,
+        "slug": "duncan-2025",
+        "url": "https://yoyoarchive.org/catalogs/duncan-2025",
+        "type": "catalog",
+        "title": "2025 Duncan Product Catalog",
+        "date_modified": "2026-05-20",
+        "content": "",
+        "meta": {
+            "yya_date": "2025",
+            "yya_files": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2025/03/2025_Duncan_Catalog.pdf",
+                    "title": "2025_Duncan_Catalog",
+                    "type": "application/pdf"
+                }
+            ]
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 349
+    },
+    {
+        "id": 3822,
+        "slug": "yoyo-universe-april-2001",
+        "url": "https://yoyoarchive.org/catalogs/yoyo-universe-april-2001",
+        "type": "catalog",
+        "title": "YoYo Universe April 2001",
+        "date_modified": "2026-05-12",
+        "content": "",
+        "meta": {
+            "yya_date": "2001"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyo-universe",
+                    "url": "https://yoyoarchive.org/companies/yoyo-universe",
+                    "title": "YoYo Universe"
+                }
+            ]
+        },
+        "folio": 115
+    }
+]

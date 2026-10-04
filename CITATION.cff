@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "The Yoyo Archive Open Dataset"
+type: dataset
+authors:
+  - name: "The Yoyo Archive"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/rkalajian/yoyo-archive-data"
+url: "https://yoyoarchive.org"
+date-released: 2026-10-04

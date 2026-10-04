@@ -1,0 +1,18 @@
+name: validate
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm i -g ajv-cli@5
+      - name: Schema
+        run: |
+          for f in data/*.json; do
+            case "$f" in data/taxonomies.json|data/manifest.json) continue;; esac
+            ajv validate -s schema/record.schema.json -d "$f"
+          done
+      - name: Guard
+        run: scripts/guard.sh

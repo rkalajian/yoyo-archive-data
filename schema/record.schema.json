@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Yoyo Archive record array",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "slug", "url", "type", "title", "date_modified", "content", "meta", "terms", "relations"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "type": "integer", "minimum": 1 },
+      "slug": { "type": "string", "minLength": 1 },
+      "url": { "type": "string", "pattern": "^https?://" },
+      "type": { "enum": ["product", "company", "catalog", "competition", "article", "story", "review", "profile", "yya_media"] },
+      "title": { "type": "string" },
+      "date_modified": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+      "content": { "type": "string" },
+      "folio": { "type": "integer", "minimum": 1 },
+      "meta": { "type": "object", "propertyNames": { "pattern": "^yya_" } },
+      "terms": {
+        "type": "object",
+        "additionalProperties": { "type": "array", "items": { "type": "string" } }
+      },
+      "relations": {
+        "type": "object",
+        "additionalProperties": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["slug", "url", "title"],
+            "properties": { "slug": { "type": "string" }, "url": { "type": "string" }, "title": { "type": "string" } }
+          }
+        }
+      }
+    }
+  }
+}

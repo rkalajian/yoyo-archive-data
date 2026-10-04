@@ -1,0 +1,15 @@
+{
+    "counts": {
+        "product": 4238,
+        "company": 272,
+        "catalog": 19,
+        "competition": 89,
+        "article": 21,
+        "story": 4,
+        "review": 89,
+        "profile": 132,
+        "yya_media": 9
+    },
+    "license": "CC BY-SA 4.0",
+    "source": "https://yoyoarchive.org"
+}
