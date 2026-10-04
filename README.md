@@ -47,6 +47,7 @@ Each file is a JSON array sorted by `slug`. Schema: `schema/record.schema.json`.
 
 - Drafts and unpublished records.
 - Images and catalog PDFs. `yya_gallery_images` and `yya_files` hold pointers (`url`, `title`, `type`) only; the files remain with their owners.
+- Story text. `data/story.json` keeps metadata and source citations (`yya_story_source_label`, `yya_story_source_url`) but `content` is empty, because stories quote third-party material.
 - User accounts, and email addresses (redacted as `[email removed]`).
 
 ## Corrections
