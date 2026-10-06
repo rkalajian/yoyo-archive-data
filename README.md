@@ -4,6 +4,8 @@ Structured, open data from [The Yoyo Archive](https://yoyoarchive.org): an archi
 
 Licensed under **CC BY-SA 4.0** (see `LICENSE`).
 
+**Last update:** 2026-10-06
+
 ## Attribution (required)
 
 Credit **The Yoyo Archive** (<https://yoyoarchive.org>) and link back. Derivatives must be shared under CC BY-SA 4.0.

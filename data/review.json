@@ -1787,6 +1787,36 @@
         "folio": 6
     },
     {
+        "id": 26294,
+        "slug": "yoyofriends-pacer-a-tie",
+        "url": "https://yoyoarchive.org/reviews/yoyofriends-pacer-a-tie",
+        "type": "review",
+        "title": "Yoyofriends | Pacer | A-tie",
+        "date_modified": "2026-10-05",
+        "content": "The prodigal rival and downfall of the Savage Handcrush. Honestly? This yo-yo is everything the Handcrush needed to be. The only thing it’s missing is the clout that the Handcrush has from being the follow-up to the Savage and a Yoyorecreation yo-yo… And some of the Savage X-Factor. Still.\n\nIt doesn’t feel as heavy or as bricky as the Handcrush; it moves more easily than the Handcrush. It’s not as explicitly powerful as the Handcrush (marginally), but it’s more stable than the Handcrush. This yo-yo just generally has fewer jarring, strange, janky issues than the Handcrush. It feels better and less frustrating to use. Not as snaggy, not as prone to blowouts, etc.\n\nOn its own, it’s good. Really snappy, quick, and maneuverable. Despite weighing almost 68 grams, it’s so big it feels way light. All that volume makes this a not-very-dense yo-yo. More than capable, very, very good yo-yo.\n\nThe only catch this yo-yo has is that it fell off my lap one time, landed on the floor, and has untunable string vibe now. Could be a lemon; could be a Rupert’s Drop incident where I just found the perfect way to drop it and cause vibe. But I’m not enthused by vibe being induced this easily.\n\nPlay: Competitive\nPower: Average\nSpeed: Fast\nControllability: Easy\nStability: Solid\nValue: Average\nBind: Average\nSturdiness: Be Gentle",
+        "meta": {
+            "yya_quoted_voice": false
+        },
+        "terms": {
+            "yya_material": [
+                "6061"
+            ],
+            "yya_play_style": [
+                "1a"
+            ]
+        },
+        "relations": {
+            "yya_product": [
+                {
+                    "slug": "pacer",
+                    "url": "https://yoyoarchive.org/products/pacer",
+                    "title": "Pacer"
+                }
+            ]
+        },
+        "folio": 4397
+    },
+    {
         "id": 21420,
         "slug": "yoyorecreation-savage-handcrush-b-tier",
         "url": "https://yoyoarchive.org/reviews/yoyorecreation-savage-handcrush-b-tier",

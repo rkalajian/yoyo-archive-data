@@ -4374,6 +4374,219 @@
         "relations": {}
     },
     {
+        "id": 26300,
+        "slug": "indiana-state-yo-yo-contest-2026",
+        "url": "https://yoyoarchive.org/competitions/indiana-state-yo-yo-contest-2026",
+        "type": "competition",
+        "title": "Indiana State Yo-Yo Contest 2026",
+        "date_modified": "2026-10-06",
+        "content": "About the Indiana State Yo-Yo Contest 2026\n\nThe 2026 Indiana State Yo-Yo Contest took place September 19, 2026 at The Irving Theater in Indianapolis, run on the National Yo-Yo League's contest platform. Isaac Viteri won the 1A division with an 88.50 final score, ahead of Zion Wilson (60.17) and Connor Pflueger (56.73), in a field of 18. John Datoy swept the advanced styles, winning both 5A (70.35) and X-Division (66.66) with Brandon Cole second in 5A and William Smith (2A) second in X-Division. Sports 1A was split by age: Noah Leung won Ages 12 & Under with 86.00, and Baxter Woiwode edged Joash Kaufman 65.23 to 65.21 for Ages 13 & Up. A Sport Ladder also ran with six competitors; the official results page lists only its freestyle order, with no published placements.",
+        "meta": {
+            "yya_additional_notes": "Organizer: not stated on results page; sanctioned via National Yo-Yo League (NYYL)\nVenue: The Irving Theater, 5505 E Washington St, Indianapolis, IN 46219, USA\nAttendance: 18 in 1A, 5 in 5A, 4 in X-Division, 5 in Sports 1A (12 & Under), 7 in Sports 1A (13 & Up), 6 in Sport Ladder (freestyle order only, no placements published)",
+            "yya_competition_date": "2026-09-19",
+            "yya_competition_notes": "Isaac Viteri won the 1A state title with an 88.50, and John Datoy took both 5A and X-Division.",
+            "yya_competition_type": "State",
+            "yya_date": "2026",
+            "yya_location": {
+                "address": "The Irving Theater, 5505 E Washington St, Indianapolis, IN 46219, USA",
+                "lat": "39.7684",
+                "lng": "-86.0917"
+            },
+            "yya_results": [
+                {
+                    "division": "1A Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "Isaac Viteri"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Zion Wilson"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Connor Pflueger"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Jack Hudspath"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "Colin Cloyd"
+                        },
+                        {
+                            "place": "6th",
+                            "name": "Zander Grant"
+                        },
+                        {
+                            "place": "7th",
+                            "name": "Matt Doyle"
+                        },
+                        {
+                            "place": "8th",
+                            "name": "Derrick Brodnex"
+                        },
+                        {
+                            "place": "9th",
+                            "name": "Miguel Peralta"
+                        },
+                        {
+                            "place": "10th",
+                            "name": "Jonas Phlox"
+                        },
+                        {
+                            "place": "11th",
+                            "name": "Nicholas Arredondo"
+                        },
+                        {
+                            "place": "12th",
+                            "name": "Anthony Nguyen"
+                        },
+                        {
+                            "place": "13th",
+                            "name": "Ja'van Carr"
+                        },
+                        {
+                            "place": "14th",
+                            "name": "Steven Chase"
+                        },
+                        {
+                            "place": "15th",
+                            "name": "Bradd Collins"
+                        },
+                        {
+                            "place": "16th",
+                            "name": "The Yo-Inator"
+                        },
+                        {
+                            "place": "17th",
+                            "name": "Alex Morton"
+                        },
+                        {
+                            "place": "18th",
+                            "name": "Logan Rhodes"
+                        }
+                    ]
+                },
+                {
+                    "division": "5A Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "John Datoy"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Brandon Cole"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Steven Chase"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Ramir Aguilos"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "The Yo-Inator"
+                        }
+                    ]
+                },
+                {
+                    "division": "X-Division Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "John Datoy (4A)"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "William Smith (2A)"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Spenser Davis (3A)"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "The Yo-Inator (4A)"
+                        }
+                    ]
+                },
+                {
+                    "division": "Sports 1A (Ages 12 & Under) Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "Noah Leung"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Owen Ross"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Holston Taylor"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Colin Wood"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "Harvey Lancaster"
+                        }
+                    ]
+                },
+                {
+                    "division": "Sports 1A (Ages 13 & Up) Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "Baxter Woiwode"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Joash Kaufman"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Ramir Aguilos"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Max Bardy"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "Sawyer Hemmes"
+                        },
+                        {
+                            "place": "6th",
+                            "name": "krishna c"
+                        },
+                        {
+                            "place": "7th",
+                            "name": "Jesus Quiroz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "terms": {
+            "yya_play_style": [
+                "1a",
+                "5a",
+                "sport",
+                "x-division"
+            ]
+        },
+        "relations": {}
+    },
+    {
         "id": 16715,
         "slug": "japan-national-yo-yo-contest-2025",
         "url": "https://yoyoarchive.org/competitions/japan-national-yo-yo-contest-2025",
@@ -4938,6 +5151,201 @@
                 "4a",
                 "5a",
                 "sport"
+            ]
+        },
+        "relations": {}
+    },
+    {
+        "id": 23744,
+        "slug": "minnesota-state-yo-yo-contest-2026",
+        "url": "https://yoyoarchive.org/competitions/minnesota-state-yo-yo-contest-2026",
+        "type": "competition",
+        "title": "Minnesota State Yo-Yo Contest 2026",
+        "date_modified": "2026-10-06",
+        "content": "About the Minnesota State Yo-Yo Contest 2026\n\nThe 2026 Minnesota State Yo-Yo Contest took place October 4, 2026 at the Underground Music Venue in Minneapolis, hosted by the MN State Yo-Yo Club and run through the National Yo-Yo League's contest platform. Adrian Velez won the 1A division with a 95.00 final score, ahead of Zion Wilson (71.50) and Jethro Chen (65.12). In X-Division, open to 2A through 5A stylists, Tyson Engelke (4A) won with 89.00 over Tyler Ostby (5A) and Ramir Aguilos (5A). Colin Cloyd took Sports 1A with 83.33, followed by Bennett Scholl and Cole Richtsmeier. The day also included a Doc Lucky's Duos division and a Kendama freestyle showcase; the official results page lists only freestyle order for those, with no published placements.",
+        "meta": {
+            "yya_additional_notes": "Organizer: MN State Yo-Yo Club\nVenue: Underground Music Venue, 408 N 3rd Ave, Minneapolis, MN 55401, USA\nAttendance: 17 1A entrants, 18 Sports 1A entrants, 5 X-Division entrants (per compete.yoyocontest.com); Doc Lucky's Duos (3 entrants) and Kendama (3 entrants) listed as freestyle order only, no placements published",
+            "yya_competition_date": "2026-10-04",
+            "yya_competition_notes": "Adrian Velez won the 1A state title with a 95.00 final score; Tyson Engelke (4A) took X-Division and Colin Cloyd won Sports 1A.",
+            "yya_competition_type": "State",
+            "yya_date": "2026",
+            "yya_location": {
+                "address": "Underground Music Venue, 408 N 3rd Ave, Minneapolis, MN 55401, USA",
+                "lat": "44.9820",
+                "lng": "-93.2723"
+            },
+            "yya_results": [
+                {
+                    "division": "1A Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "Adrian Velez"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Zion Wilson"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Jethro Chen"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Patrick Erickson"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "Liam Sagerhorn"
+                        },
+                        {
+                            "place": "6th",
+                            "name": "Moosa Khan"
+                        },
+                        {
+                            "place": "7th",
+                            "name": "Connor Pflueger"
+                        },
+                        {
+                            "place": "8th",
+                            "name": "Leo Sakuma"
+                        },
+                        {
+                            "place": "9th",
+                            "name": "Gibson Brasher"
+                        },
+                        {
+                            "place": "10th",
+                            "name": "Ramir Aguilos"
+                        },
+                        {
+                            "place": "11th",
+                            "name": "Samuel Irwin"
+                        },
+                        {
+                            "place": "12th",
+                            "name": "Miguel Peralta"
+                        },
+                        {
+                            "place": "13th",
+                            "name": "Jordyn Smith"
+                        },
+                        {
+                            "place": "14th",
+                            "name": "Adam Blomgren"
+                        },
+                        {
+                            "place": "15th",
+                            "name": "Tobias Weber"
+                        },
+                        {
+                            "place": "16th",
+                            "name": "Lotus Deuel"
+                        }
+                    ]
+                },
+                {
+                    "division": "X-Division Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "Tyson Engelke (4A)"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Tyler Ostby (5A)"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Ramir Aguilos (5A)"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Landen Finkel (3A)"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "Ashton Schenck (3A)"
+                        }
+                    ]
+                },
+                {
+                    "division": "Sports 1A Results",
+                    "placements": [
+                        {
+                            "place": "1st",
+                            "name": "Colin Cloyd"
+                        },
+                        {
+                            "place": "2nd",
+                            "name": "Bennett Scholl"
+                        },
+                        {
+                            "place": "3rd",
+                            "name": "Cole Richtsmeier"
+                        },
+                        {
+                            "place": "4th",
+                            "name": "Liam Allen"
+                        },
+                        {
+                            "place": "5th",
+                            "name": "Weston Manuel"
+                        },
+                        {
+                            "place": "6th",
+                            "name": "Asher Berg"
+                        },
+                        {
+                            "place": "7th",
+                            "name": "Brayden Limon"
+                        },
+                        {
+                            "place": "8th",
+                            "name": "Benjamin Granchalek"
+                        },
+                        {
+                            "place": "9th",
+                            "name": "Ricky Faure"
+                        },
+                        {
+                            "place": "10th",
+                            "name": "Anderson DeWitt"
+                        },
+                        {
+                            "place": "11th",
+                            "name": "Hudson Hamm"
+                        },
+                        {
+                            "place": "12th",
+                            "name": "Joseph Voelker"
+                        },
+                        {
+                            "place": "13th",
+                            "name": "Greyson Yang"
+                        },
+                        {
+                            "place": "14th",
+                            "name": "Sidney Bleess"
+                        },
+                        {
+                            "place": "15th",
+                            "name": "Ayden Manders"
+                        },
+                        {
+                            "place": "16th",
+                            "name": "Matthew Ryan"
+                        }
+                    ]
+                }
+            ]
+        },
+        "terms": {
+            "yya_play_style": [
+                "1a",
+                "doc-luckys-duos",
+                "sport",
+                "x-division"
             ]
         },
         "relations": {}
