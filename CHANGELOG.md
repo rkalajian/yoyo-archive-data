@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-13
+
+- competition 600 (+511), product 4254 (+16), article 22 (+1). Company, story, media content updates. Other counts unchanged.
+
 ## 2026-10-06
 
 - competition 91 (+2), review 90 (+1), article content updates. Other counts unchanged.

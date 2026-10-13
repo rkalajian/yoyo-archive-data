@@ -2190,6 +2190,49 @@
         "folio": 2717
     },
     {
+        "id": 26325,
+        "slug": "44-sticker",
+        "url": "https://yoyoarchive.org/products/44-sticker",
+        "type": "product",
+        "title": "44 Sticker",
+        "date_modified": "2026-10-06",
+        "content": "About\n44 Sticker is a sticker from Throw-Yo Threads. Die-cut matte sticker of \"44 Bird\", the Throw-Yo Threads mascot. Price: $3. First a Patreon sticker (May 2026).",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/04/throw-yo-threads-44-sticker-01.webp",
+                    "title": "throw-yo-threads-44-sticker-01",
+                    "type": "image/webp"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/04/throw-yo-threads-44-sticker-02.webp",
+                    "title": "throw-yo-threads-44-sticker-02",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a"
+            ],
+            "yya_product_type": "Accessory",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4409
+    },
+    {
         "id": 18555,
         "slug": "44clash-10th-anniversary",
         "url": "https://yoyoarchive.org/products/44clash-10th-anniversary",
@@ -4772,9 +4815,9 @@
         "slug": "activated",
         "url": "https://yoyoarchive.org/products/activated",
         "type": "product",
-        "title": "Activated (Prototype)",
-        "date_modified": "2026-08-07",
-        "content": "About\nActivated (v0.5.0) is a V-shape bi-metal design on Motion's internal timeline, marked \"Prototyped\" only — no retail-release evidence found.",
+        "title": "Activated",
+        "date_modified": "2026-10-06",
+        "content": "About\n\nActivated is a V-shaped bimetal yo-yo from Motion YoYo, featuring a 7068 aluminum body and stainless steel rims. Motion first listed it on its internal timeline as a prototype. Preorders opened on October 5, 2026, in five new colorways, including a matte purple and a gold-rimmed (not brass) blue variant. Motion's Jeremy Ayers noted that a version of this design was done on Perpetual, the company's very first yo-yo, of which only two exist.",
         "meta": {
             "yya_axle": "M4x12mm",
             "yya_bearing_size": "Center Trac (C)",
@@ -4789,16 +4832,66 @@
                     "url": "https://yoyoarchive.org/wp-content/uploads/2023/04/motion-yoyo-activated-02.webp",
                     "title": "motion-yoyo-activated-02",
                     "type": "image/png"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-03-scaled.webp",
+                    "title": "motion-activated-03",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-04-scaled.webp",
+                    "title": "motion-activated-04",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-05-scaled.webp",
+                    "title": "motion-activated-05",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-06-scaled.webp",
+                    "title": "motion-activated-06",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-07-scaled.webp",
+                    "title": "motion-activated-07",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-08-scaled.webp",
+                    "title": "motion-activated-08",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-09-scaled.webp",
+                    "title": "motion-activated-09",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-10-scaled.webp",
+                    "title": "motion-activated-10",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-11-scaled.webp",
+                    "title": "motion-activated-11",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/motion-activated-12-scaled.webp",
+                    "title": "motion-activated-12",
+                    "type": "image/jpeg"
                 }
             ],
-            "yya_gap_width": "4.445mm",
+            "yya_gap_width": "4.44mm",
             "yya_play_style": [
                 "1a"
             ],
             "yya_product_type": "Yo-yo",
-            "yya_release": "2023",
+            "yya_release": "2026",
             "yya_response": "Standard FPM Pads (19x14x1.2mm)",
-            "yya_weight": "63.04g",
+            "yya_weight": "62.40g",
             "yya_width": "46.8mm"
         },
         "terms": {
@@ -20266,6 +20359,54 @@
         "folio": 1241
     },
     {
+        "id": 26320,
+        "slug": "baroness-blend",
+        "url": "https://yoyoarchive.org/products/baroness-blend",
+        "type": "product",
+        "title": "Baroness Blend",
+        "date_modified": "2026-10-06",
+        "content": "About\nThe Baroness Blend is an annual Throw-Yo Threads special. Once a year, the maker's wife walks into the thread room and picks, with no brief and no spec, and whatever she wants gets wound and named for her. The 2025 edition is an Ink-type string from the SOLUTIONS line, described as slippery in play with killer speed, long life and a slightly coarse feel. It first appeared to Patreon subscribers as the November 2025 \"Baroness Blend #1\" and was listed on the public store on March 20, 2026.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/03/throw-yo-threads-baroness-blend-01.webp",
+                    "title": "throw-yo-threads-baroness-blend-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4411
+    },
+    {
         "id": 12561,
         "slug": "barracuda",
         "url": "https://yoyoarchive.org/products/barracuda",
@@ -35348,6 +35489,47 @@
         "folio": 168
     },
     {
+        "id": 26335,
+        "slug": "coil-string",
+        "url": "https://yoyoarchive.org/products/coil-string",
+        "type": "product",
+        "title": "Coil (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nCoil was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in August 2026. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4401
+    },
+    {
         "id": 16249,
         "slug": "collid3r",
         "url": "https://yoyoarchive.org/products/collid3r",
@@ -40026,6 +40208,44 @@
             ]
         },
         "folio": 1123
+    },
+    {
+        "id": 26328,
+        "slug": "deaths-head-butterfly-cap-sticker",
+        "url": "https://yoyoarchive.org/products/deaths-head-butterfly-cap-sticker",
+        "type": "product",
+        "title": "Death’s Head Butterfly Cap Sticker",
+        "date_modified": "2026-10-06",
+        "content": "About\nDeath's Head Butterfly Cap Sticker is a sticker from Throw-Yo Threads. Thermal-printed sticker sized for Butterfly caps. Types: Holo, White. Price: $1.50-$2.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/05/throw-yo-threads-deaths-head-butterfly-cap-sticker-01.webp",
+                    "title": "throw-yo-threads-deaths-head-butterfly-cap-sticker-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a"
+            ],
+            "yya_product_type": "Accessory",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4407
     },
     {
         "id": 22151,
@@ -50109,8 +50329,8 @@
         "url": "https://yoyoarchive.org/products/emulsion",
         "type": "product",
         "title": "Emulsion",
-        "date_modified": "2026-05-20",
-        "content": "AboutEmulsion is Throw-Yo Threads' seasonal limited-release string series — each batch uses a unique blend formulated for a specific season, event, or occasion. No fixed formula, no repeatable spec. \"Mixed, slightly thick, named, and dated before it goes out the door.\" Each run is retired once sold out. Known releases include Refract and Transit, part of a Pride 2026 collection released May 12, 2026 alongside die-cut stickers and Butterfly Cap stickers.",
+        "date_modified": "2026-10-06",
+        "content": "About\nEmulsion is Throw-Yo Threads' seasonal limited-release string series — each batch uses a unique blend formulated for a specific season, event, or occasion. No fixed formula, no repeatable spec. \"Mixed, slightly thick, named, and dated before it goes out the door.\" Each run is retired once sold out.",
         "meta": {
             "yya_gallery_images": [
                 {
@@ -54837,6 +55057,47 @@
             ]
         },
         "folio": 2078
+    },
+    {
+        "id": 26333,
+        "slug": "filament-string",
+        "url": "https://yoyoarchive.org/products/filament-string",
+        "type": "product",
+        "title": "Filament (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nFilament was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in April 2026. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4410
     },
     {
         "id": 5216,
@@ -67378,6 +67639,49 @@
         "folio": 557
     },
     {
+        "id": 26319,
+        "slug": "gummy-corvid-counterweight",
+        "url": "https://yoyoarchive.org/products/gummy-corvid-counterweight",
+        "type": "product",
+        "title": "Gummy Corvid Counterweight",
+        "date_modified": "2026-10-06",
+        "content": "About\nThe Gummy Corvid is a soft, squishy recycled plastisol counterweight from Throw-Yo Threads, billed as the lightest counterweight in the Curiosities Cabinet. It comes with a threader and bead.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/08/throw-yo-threads-gummy-corvid-counterweight-01.webp",
+                    "title": "throw-yo-threads-gummy-corvid-counterweight-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a",
+                "5a"
+            ],
+            "yya_product_type": "Counterweight",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_material": [
+                "plastic"
+            ],
+            "yya_play_style": [
+                "0a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4400
+    },
+    {
         "id": 11823,
         "slug": "gummy-fruiting-body-counterweight",
         "url": "https://yoyoarchive.org/products/gummy-fruiting-body-counterweight",
@@ -67482,6 +67786,49 @@
             ]
         },
         "folio": 959
+    },
+    {
+        "id": 26318,
+        "slug": "gummy-plaquette-counterweight",
+        "url": "https://yoyoarchive.org/products/gummy-plaquette-counterweight",
+        "type": "product",
+        "title": "Gummy Plaquette Counterweight",
+        "date_modified": "2026-10-06",
+        "content": "About\nThe Gummy Plaquette is a soft, squishy counterweight from Throw-Yo Threads, cast from recycled plastisol. It comes with a threader and bead.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/07/throw-yo-threads-gummy-plaquette-counterweight-01.webp",
+                    "title": "throw-yo-threads-gummy-plaquette-counterweight-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a",
+                "5a"
+            ],
+            "yya_product_type": "Counterweight",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_material": [
+                "plastic"
+            ],
+            "yya_play_style": [
+                "0a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4402
     },
     {
         "id": 11822,
@@ -84138,6 +84485,47 @@
         "folio": 581
     },
     {
+        "id": 26330,
+        "slug": "kickflip-string",
+        "url": "https://yoyoarchive.org/products/kickflip-string",
+        "type": "product",
+        "title": "Kickflip (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nKickflip was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in December 2025. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2025"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4413
+    },
+    {
         "id": 16197,
         "slug": "kickside",
         "url": "https://yoyoarchive.org/products/kickside",
@@ -95563,6 +95951,47 @@
         "folio": 77
     },
     {
+        "id": 26337,
+        "slug": "meniscus-string",
+        "url": "https://yoyoarchive.org/products/meniscus-string",
+        "type": "product",
+        "title": "Meniscus (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nMeniscus was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in October 2026. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4398
+    },
+    {
         "id": 15104,
         "slug": "mentsch",
         "url": "https://yoyoarchive.org/products/mentsch",
@@ -98922,6 +99351,47 @@
             ]
         },
         "folio": 2450
+    },
+    {
+        "id": 26331,
+        "slug": "mock-tincture",
+        "url": "https://yoyoarchive.org/products/mock-tincture",
+        "type": "product",
+        "title": "Mock Tincture (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nMock Tincture was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in January 2026. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4412
     },
     {
         "id": 4945,
@@ -104884,6 +105354,47 @@
             ]
         },
         "folio": 2775
+    },
+    {
+        "id": 26336,
+        "slug": "old-school-ink",
+        "url": "https://yoyoarchive.org/products/old-school-ink",
+        "type": "product",
+        "title": "Old-School Ink (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nOld-School Ink was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in September 2026. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4399
     },
     {
         "id": 8925,
@@ -117697,6 +118208,82 @@
         "folio": 1194
     },
     {
+        "id": 26329,
+        "slug": "raven-butterfly-cap-sticker",
+        "url": "https://yoyoarchive.org/products/raven-butterfly-cap-sticker",
+        "type": "product",
+        "title": "Raven Butterfly Cap Sticker",
+        "date_modified": "2026-10-06",
+        "content": "About\nRaven Butterfly Cap Sticker is a sticker from Throw-Yo Threads. Thermal-printed sticker sized for Butterfly caps. Types: Holo, White. Price: $1.50-$2.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/05/throw-yo-threads-raven-butterfly-cap-sticker-01.webp",
+                    "title": "throw-yo-threads-raven-butterfly-cap-sticker-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a"
+            ],
+            "yya_product_type": "Accessory",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4406
+    },
+    {
+        "id": 26326,
+        "slug": "raven-skull-sticker",
+        "url": "https://yoyoarchive.org/products/raven-skull-sticker",
+        "type": "product",
+        "title": "Raven & Skull Sticker",
+        "date_modified": "2026-10-06",
+        "content": "About\nRaven & Skull Sticker is a sticker from Throw-Yo Threads. Die-cut matte raven and skull sticker. Price: $3. First a Patreon sticker (June 2026).",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/04/throw-yo-threads-raven-skull-sticker-01.webp",
+                    "title": "throw-yo-threads-raven-skull-sticker-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a"
+            ],
+            "yya_product_type": "Accessory",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4408
+    },
+    {
         "id": 21460,
         "slug": "raw",
         "url": "https://yoyoarchive.org/products/raw",
@@ -117998,6 +118585,47 @@
             ]
         },
         "folio": 3173
+    },
+    {
+        "id": 26334,
+        "slug": "reagent-string",
+        "url": "https://yoyoarchive.org/products/reagent-string",
+        "type": "product",
+        "title": "Reagent (Prototype)",
+        "date_modified": "2026-10-06",
+        "content": "About\nReagent was a monthly Project Torsion blend from Throw-Yo Threads, offered only to Patreon subscribers in June 2026. No public retail release has been confirmed.",
+        "meta": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4404
     },
     {
         "id": 9974,
@@ -128994,6 +129622,69 @@
             ]
         },
         "folio": 1778
+    },
+    {
+        "id": 26315,
+        "slug": "sinew",
+        "url": "https://yoyoarchive.org/products/sinew",
+        "type": "product",
+        "title": "Sinew",
+        "date_modified": "2026-10-06",
+        "content": "About\nSinew is a Performance-line string from Throw-Yo Threads built for durability rather than speed. It blends Trilobal Poly and Bonded Nylon in roughly equal parts, each spun as a separate cord and then combined. The Trilobal's impulse to run is reined in by the nylon, giving a slower, more deliberate feel without becoming Responsive. Expect a stiff break-in period of an hour or two, after which it settles and holds its state for a very long time; it was tested for months on an MR-85 responsive bearing. It debuted as Patreon Project Torsion blend #6 (May 2026) before its public launch on June 4, 2026.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/06/throw-yo-threads-sinew-01.webp",
+                    "title": "throw-yo-threads-sinew-01",
+                    "type": "image/webp"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/06/throw-yo-threads-sinew-02.webp",
+                    "title": "throw-yo-threads-sinew-02",
+                    "type": "image/webp"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/06/throw-yo-threads-sinew-03.webp",
+                    "title": "throw-yo-threads-sinew-03",
+                    "type": "image/webp"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/06/throw-yo-threads-sinew-04.webp",
+                    "title": "throw-yo-threads-sinew-04",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ],
+            "yya_product_type": "String",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a",
+                "1a",
+                "2a",
+                "3a",
+                "4a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4403
     },
     {
         "id": 12318,
@@ -169711,6 +170402,44 @@
             ]
         },
         "folio": 246
+    },
+    {
+        "id": 26327,
+        "slug": "viscera-butterfly-cap-sticker",
+        "url": "https://yoyoarchive.org/products/viscera-butterfly-cap-sticker",
+        "type": "product",
+        "title": "Viscera Butterfly Cap Sticker",
+        "date_modified": "2026-10-06",
+        "content": "About\nViscera Butterfly Cap Sticker is a sticker from Throw-Yo Threads. Thermal-printed sticker sized for Butterfly caps. Types: Holo, White. Price: $1.50-$2.",
+        "meta": {
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/05/throw-yo-threads-viscera-butterfly-cap-sticker-01.webp",
+                    "title": "throw-yo-threads-viscera-butterfly-cap-sticker-01",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_play_style": [
+                "0a"
+            ],
+            "yya_product_type": "Accessory",
+            "yya_release": "2026"
+        },
+        "terms": {
+            "yya_play_style": [
+                "0a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throw-yo-threads",
+                    "url": "https://yoyoarchive.org/companies/throw-yo-threads",
+                    "title": "Throw-Yo Threads"
+                }
+            ]
+        },
+        "folio": 4405
     },
     {
         "id": 19889,
