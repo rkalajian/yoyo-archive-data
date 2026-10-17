@@ -59,3 +59,7 @@ Open an issue or pull request. Data is regenerated from the live archive, so acc
 ## Validation
 
 CI validates every file against the schema and runs `scripts/guard.sh` (no emails, no non-published markers, no secrets).
+
+## Refreshing
+
+Maintainers: `YYA_SSH=user@host YYA_SITE_PATH=<wordpress root> scripts/refresh.sh [--push]` exports from the live archive, runs the guard, updates this README and the changelog, and commits. It does nothing when the data is unchanged.
