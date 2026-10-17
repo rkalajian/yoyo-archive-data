@@ -892,6 +892,22 @@
         "relations": {}
     },
     {
+        "id": 27456,
+        "slug": "core-concept-yoyos",
+        "url": "https://yoyoarchive.org/companies/core-concept-yoyos",
+        "type": "company",
+        "title": "Core Concept YoYos",
+        "date_modified": "2026-10-16",
+        "content": "Core Concept YoYos, also known as Core Co. or CoreCo, is an American yo-yo brand. Its catalog includes the modular Standard, the Logan Willis-designed Tako, and the responsive Alleycat.\n\nSources: Spingear: CoreCo introduction, March 16, 2017; REWIND: Core Concept YoYos brand history. Founding year and current operating status are undocumented here.",
+        "meta": {
+            "yya_type": [
+                "Yo-yo Brand"
+            ]
+        },
+        "terms": {},
+        "relations": {}
+    },
+    {
         "id": 7897,
         "slug": "crucial",
         "url": "https://yoyoarchive.org/companies/crucial",
@@ -2781,6 +2797,24 @@
         "relations": {}
     },
     {
+        "id": 27511,
+        "slug": "old-school-throws",
+        "url": "https://yoyoarchive.org/companies/old-school-throws",
+        "type": "company",
+        "title": "Old School Throws",
+        "date_modified": "2026-10-17",
+        "content": "Old School Throws is an American yo-yo brand introduced in 2017. Its designs revisit rounded organic shapes associated with earlier generations while using modern construction. The catalog includes the Quint, an A-rt collaboration, the slimline Resto, and the miniature Medallion.",
+        "meta": {
+            "yya_founded": "2017",
+            "yya_type": [
+                "Yo-yo Brand"
+            ],
+            "yya_website": "https://oldschoolthrows.bigcartel.com/"
+        },
+        "terms": {},
+        "relations": {}
+    },
+    {
         "id": 3460,
         "slug": "one-drop-yoyos",
         "url": "https://yoyoarchive.org/companies/one-drop-yoyos",
@@ -2864,6 +2898,22 @@
         "date_modified": "2026-05-19",
         "content": "About Paragon YoyosParagon Yoyos is a Southern California yo-yo brand founded by Eric Ngu, a longtime competitive player and member of the Crucial team. The company — registered as Hello Paragon LLC in El Monte, California in July 2024 — launched with a founding pair of precision-machined aluminum yo-yos: the Thou and the Zephyr. The two models were designed as deliberate contrasts, with the Thou embodying a smooth, organic, floaty character and the Zephyr offering a harder-lined, aggressive counterpart. Paragon subsequently collaborated with Crucial on the Sorbet, a polycarbonate-and-aluminum hybrid that extends the Milky's hybrid design language into a performance-first format. The brand ships worldwide.",
         "meta": {},
+        "terms": {},
+        "relations": {}
+    },
+    {
+        "id": 27494,
+        "slug": "pdx-yo",
+        "url": "https://yoyoarchive.org/companies/pdx-yo",
+        "type": "company",
+        "title": "PDX-YO",
+        "date_modified": "2026-10-17",
+        "content": "PDX-YO is the yo-yo brand associated with designer Toby Roberts. A May 2019 manufacturer post announced the Swamp Monster and described a Batsquatch bi-metal prototype. Public preorders and owner records document Batsquatch. Further company history and profile details are not verified.",
+        "meta": {
+            "yya_type": [
+                "Yo-yo Brand"
+            ]
+        },
         "terms": {},
         "relations": {}
     },
@@ -3938,6 +3988,22 @@
         "relations": {}
     },
     {
+        "id": 27518,
+        "slug": "throwing-sideways",
+        "url": "https://yoyoarchive.org/companies/throwing-sideways",
+        "type": "company",
+        "title": "Throwing Sideways",
+        "date_modified": "2026-10-17",
+        "content": "Throwing Sideways is a yo-yo brand associated with The Parthenon. An August 2021 fundraiser identifies its organizer as William Shoemaker, while the first-person story identifies its speaker as William Guy and the brand owner. The names are retained as reported; their relationship is unverified. Founding date, headquarters, closure status, official website, and social accounts have not been independently established.Sources: 2021 fundraiser; retailer product record.",
+        "meta": {
+            "yya_type": [
+                "Yo-yo Brand"
+            ]
+        },
+        "terms": {},
+        "relations": {}
+    },
+    {
         "id": 19491,
         "slug": "throws-n-brews",
         "url": "https://yoyoarchive.org/companies/throws-n-brews",
@@ -4821,6 +4887,22 @@
                 "Yo-yo Brand"
             ],
             "yya_website": "https://www.yoyoformula.com/"
+        },
+        "terms": {},
+        "relations": {}
+    },
+    {
+        "id": 27455,
+        "slug": "yoyofreaks",
+        "url": "https://yoyoarchive.org/companies/yoyofreaks",
+        "type": "company",
+        "title": "YoYoFREAKS",
+        "date_modified": "2026-10-16",
+        "content": "YoYoFREAKS is the yo-yo brand associated with Johnnie Delvalle, also known as JD. Its Hundred Series of limited-production yo-yos began with Your Mom in January 2017.\n\nSources: YoYoBESTBUY: Your Mom product history; REWIND: Johnnie Delvalle. The former brand-store page was available through the search index during research; its live host could not be verified. Founding year and current operating status are undocumented here.",
+        "meta": {
+            "yya_type": [
+                "Yo-yo Brand"
+            ]
         },
         "terms": {},
         "relations": {}

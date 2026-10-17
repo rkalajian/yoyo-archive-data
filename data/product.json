@@ -36135,6 +36135,176 @@
         "folio": 2197
     },
     {
+        "id": 27479,
+        "slug": "core-concept-sf-bff",
+        "url": "https://yoyoarchive.org/products/core-concept-sf-bff",
+        "type": "product",
+        "title": "BFF",
+        "date_modified": "2026-10-16",
+        "content": "BFF is a collaboration between Core Concept YoYos and SF Yoyos. Its H-profile 6061 aluminum body uses curved stainless-steel inner rims related to the SF SS design. The unresponsive model has a Center Trac C bearing and slim response pads.\n\nDocumentation notes\n\nREWIND records 2018 and specifications of 57.32 mm diameter, 42.46 mm width and 65.7 g. Exact initial launch day and gap width remain unverified. The collector ledger’s January 3, 2018 date and 35 pieces concern the Unknown edition, not total model production. Core Concept #27456 and SF Yoyos #5198 are genuine co-brand collaborators. The attached REWIND photograph is a blue/silver splash example with a rainbow-colored inner rim; it is not identified as the Unknown edition.\n\nSources\n\nREWIND product recordUnknown edition collector ledgerArchive FIU collectors’ list",
+        "meta": {
+            "yya_axle": "M4 x 8mm",
+            "yya_bearing_size": "C",
+            "yya_diameter": "57.32",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/core-concept-sf-bff-01.webp",
+                    "title": "Core Concept x SF BFF, blue/silver splash; photograph from REWIND. Not identified as the Unknown edition.",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2018",
+            "yya_response": "Slim pads",
+            "yya_weight": "65.7",
+            "yya_width": "42.46"
+        },
+        "terms": {
+            "yya_material": [
+                "6061",
+                "stainless-steel"
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "core-concept-yoyos",
+                    "url": "https://yoyoarchive.org/companies/core-concept-yoyos",
+                    "title": "Core Concept YoYos"
+                },
+                {
+                    "slug": "sf-yoyos",
+                    "url": "https://yoyoarchive.org/companies/sf-yoyos",
+                    "title": "SF Yoyos"
+                }
+            ]
+        },
+        "folio": 4423
+    },
+    {
+        "id": 27463,
+        "slug": "core-concept-tako",
+        "url": "https://yoyoarchive.org/products/core-concept-tako",
+        "type": "product",
+        "title": "Tako",
+        "date_modified": "2026-10-16",
+        "content": "Tako is a Core Concept YoYos aluminum model designed by Logan Willis. Spingear describes a stepped, rounded profile, undercut rims and a blasted finish. Its unresponsive setup uses a C bearing and slim response pads. Public retail availability is documented by Spingear’s March 16, 2017 introduction.\n\nDocumentation notes\n\nExact initial launch day, aluminum alloy, gap, axle and formal play-style classification remain unverified. The FIU list records June 3, 2017 and ten Unknown-edition pieces at BAC, later than the model’s documented retail availability. The attached photo shows the Spingear edition, not the Unknown edition. No collaborating company established for the base model.\n\nSources\n\nSpingear product recordSpingear introduction, March 16, 2017Archive FIU collectors’ list (edition context)",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "55.5",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/core-concept-tako-01.webp",
+                    "title": "Spingear-edition Tako; photograph from Spingear. Not the Unknown edition.",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2017",
+            "yya_response": "Slim pads (YoYoFactory-compatible)",
+            "yya_weight": "65.6",
+            "yya_width": "43.8"
+        },
+        "terms": {
+            "yya_material": [
+                "aluminum"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "core-concept-yoyos",
+                    "url": "https://yoyoarchive.org/companies/core-concept-yoyos",
+                    "title": "Core Concept YoYos"
+                }
+            ]
+        },
+        "folio": 4420
+    },
+    {
+        "id": 27495,
+        "slug": "coreco-diesis",
+        "url": "https://yoyoarchive.org/products/coreco-diesis",
+        "type": "product",
+        "title": "Diesis",
+        "date_modified": "2026-10-17",
+        "content": "Diesis is a Core Concept YoYos 6061 aluminum yo-yo. Its 2018 release is documented in CoreCo coverage. The FIU list records an October 27 edition; that date is not established as the model launch date.Rewind lists a 66.7 g weight and dimensions of 54.63 mm diameter by 41.9 mm width. SpinGear lists slightly different measurements (66.5 g and 54.7 × 42.0 mm). The Rewind values are recorded here, with the discrepancy noted.",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "54.63",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/core-concept-yoyos-diesis-01.webp",
+                    "title": "Core Concept YoYos Diesis yo-yo",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2018",
+            "yya_response": "Slim pads, M4 × 10 mm",
+            "yya_weight": "66.7",
+            "yya_width": "41.9"
+        },
+        "terms": {
+            "yya_material": [
+                "6061"
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "core-concept-yoyos",
+                    "url": "https://yoyoarchive.org/companies/core-concept-yoyos",
+                    "title": "Core Concept YoYos"
+                }
+            ]
+        },
+        "folio": 4426
+    },
+    {
+        "id": 27499,
+        "slug": "coreco-mothra-prototype",
+        "url": "https://yoyoarchive.org/products/coreco-mothra-prototype",
+        "type": "product",
+        "title": "Mothra (Prototype)",
+        "date_modified": "2026-10-17",
+        "content": "Mothra is a Core Concept YoYos prototype reported in collector records. No official public drop or confirmed retail release has been found. Collector documentation reports its existence by 2019; specifications and an image are not verified.",
+        "meta": {
+            "yya_product_type": "Yo-yo"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "core-concept-yoyos",
+                    "url": "https://yoyoarchive.org/companies/core-concept-yoyos",
+                    "title": "Core Concept YoYos"
+                }
+            ]
+        },
+        "folio": 4430
+    },
+    {
         "id": 8085,
         "slug": "corvus",
         "url": "https://yoyoarchive.org/products/corvus",
@@ -45975,6 +46145,74 @@
         "folio": 441
     },
     {
+        "id": 27448,
+        "slug": "ds-75",
+        "url": "https://yoyoarchive.org/products/ds-75",
+        "type": "product",
+        "title": "DS-75",
+        "date_modified": "2026-10-15",
+        "content": "History / About\nAs the name suggests, the DS-75 is a 7075 aluminum alloy version of the DS-61. It is technically \"boosted\", so it weighs slightly less than the 6061 counterpart even though the alloy is heavier. Since the alloy is already in the name, One Drop went with \"DS-75\" rather than \"Boosted DS-61\". The DS Series aims at pure performance, with a stark aesthetic and no extra weight in the mid-section. The additional width and additional rim weight give it the highest spin inertia One Drop has released.",
+        "meta": {
+            "yya_axle": "Tapped 8mm",
+            "yya_bearing_size": "Size C",
+            "yya_diameter": "55mm",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/one-drop-ds-75-01.webp",
+                    "title": "one-drop-ds-75-01",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/one-drop-ds-75-02.webp",
+                    "title": "one-drop-ds-75-02",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/one-drop-ds-75-03.webp",
+                    "title": "one-drop-ds-75-03",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/one-drop-ds-75-04.webp",
+                    "title": "one-drop-ds-75-04",
+                    "type": "image/jpeg"
+                },
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/one-drop-ds-75-05.webp",
+                    "title": "one-drop-ds-75-05",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_gap_width": "4.42mm",
+            "yya_play_style": [
+                "1a"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2026",
+            "yya_response": "One Drop Flow Groove pads",
+            "yya_weight": "63.5g",
+            "yya_width": "51.4mm"
+        },
+        "terms": {
+            "yya_material": [
+                "7075"
+            ],
+            "yya_play_style": [
+                "1a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "one-drop-yoyos",
+                    "url": "https://yoyoarchive.org/companies/one-drop-yoyos",
+                    "title": "One Drop YoYos"
+                }
+            ]
+        },
+        "folio": 4416
+    },
+    {
         "id": 17011,
         "slug": "dualiti",
         "url": "https://yoyoarchive.org/products/dualiti",
@@ -46339,6 +46577,57 @@
             ]
         },
         "folio": 3355
+    },
+    {
+        "id": 27457,
+        "slug": "duncan-bassacuda",
+        "url": "https://yoyoarchive.org/products/duncan-bassacuda",
+        "type": "product",
+        "title": "Bassacuda",
+        "date_modified": "2026-10-16",
+        "content": "The Bassacuda is Sebastian Brock’s Duncan signature yo-yo, introduced in 2015. It develops the Barracuda design into a wider aluminum string-trick model with a rounded step profile and an unresponsive setup.\n\nDocumentation notes\n\nREWIND lists 65.2 g; Spingear lists 65.4 g. The structured weight follows REWIND and is not an edition-specific measurement. The Archive’s FIU list records a November 14, 2015 Unknown edition, 50 pieces; that edition date/count is not the model launch date or total production. Exact launch day and aluminum alloy remain unverified.\n\nSources\n\nREWIND product recordSpingear catalog comparisonArchive FIU collectors’ list (edition context)",
+        "meta": {
+            "yya_axle": "M4 x 10mm",
+            "yya_bearing_size": "C",
+            "yya_diameter": "55.99",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/duncan-bassacuda-01.webp",
+                    "title": "Standard gold Bassacuda; photograph from REWIND. Not the Unknown edition.",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_play_style": [
+                "1A",
+                "3A",
+                "5A"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2015",
+            "yya_response": "Slim pads",
+            "yya_weight": "65.2",
+            "yya_width": "44.39"
+        },
+        "terms": {
+            "yya_material": [
+                "aluminum"
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 4421
     },
     {
         "id": 20655,
@@ -47043,6 +47332,57 @@
             ]
         },
         "folio": 3354
+    },
+    {
+        "id": 27460,
+        "slug": "duncan-origami-2016",
+        "url": "https://yoyoarchive.org/products/duncan-origami-2016",
+        "type": "product",
+        "title": "Origami (2016)",
+        "date_modified": "2026-10-16",
+        "content": "The original Origami is Bryan Jardin’s 2016 Duncan signature yo-yo. Its aluminum body combines an H profile with rounded steps, and it was sold with a clear dice counterweight for 5A play. This record describes the original model, which predates the revised 2018 Origami.\n\nDocumentation notes\n\nOriginal 2016 model specifications from REWIND’s origami-old record; do not substitute the 2018 redesign’s 57.45 mm diameter, 43 mm width or M4 x 12mm axle. REWIND lists a licensed concave C bearing. The FIU list records May 10, 2017 and 60 per color for the Unknown edition; these are not the base model launch date or total production. Gap width and exact initial launch day remain unverified.\n\nSources\n\nREWIND original-model recordREWIND introduction, August 19, 2016Archive FIU collectors’ list (edition context)",
+        "meta": {
+            "yya_axle": "M4 x 10mm",
+            "yya_bearing_size": "C",
+            "yya_diameter": "56.41",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/duncan-origami-2016-01.webp",
+                    "title": "Original-model Origami, black Unknown edition; photograph from REWIND.",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_play_style": [
+                "1A",
+                "3A",
+                "5A"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2016",
+            "yya_response": "Slim pads",
+            "yya_weight": "66.4",
+            "yya_width": "44.05"
+        },
+        "terms": {
+            "yya_material": [
+                "6061"
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "duncan-toys",
+                    "url": "https://yoyoarchive.org/companies/duncan-toys",
+                    "title": "Duncan Toys"
+                }
+            ]
+        },
+        "folio": 4418
     },
     {
         "id": 21989,
@@ -79478,6 +79818,57 @@
         "folio": 376
     },
     {
+        "id": 27496,
+        "slug": "japan-technology-shaqshine-layered",
+        "url": "https://yoyoarchive.org/products/japan-technology-shaqshine-layered",
+        "type": "product",
+        "title": "Shaqshine (2019 Layered)",
+        "date_modified": "2026-10-17",
+        "content": "The 2019 Layered edition of Japan Technology’s Shaqshine is a 6061 aluminum yo-yo with stainless steel weight rings. It has a C double-straight bearing and slim response pads. FIU’s June 21 listing refers to an Unknown edition; its count is undocumented.This 2019 Layered model is distinct from the original 2016 A300 model.",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "55.35",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/japan-technology-shaqshine-layered-01.webp",
+                    "title": "Japan Technology Shaqshine yo-yo, Unknown edition",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2019",
+            "yya_response": "Slim pads, M4 × 8 mm",
+            "yya_weight": "64.8",
+            "yya_width": "43.02"
+        },
+        "terms": {
+            "yya_material": [
+                "6061",
+                "stainless-steel"
+            ],
+            "yya_play_style": [
+                "1a",
+                "3a",
+                "5a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "japan-technology",
+                    "url": "https://yoyoarchive.org/companies/japan-technology",
+                    "title": "Japan Technology"
+                }
+            ]
+        },
+        "folio": 4427
+    },
+    {
         "id": 20064,
         "slug": "jello",
         "url": "https://yoyoarchive.org/products/jello",
@@ -105397,6 +105788,45 @@
         "folio": 4399
     },
     {
+        "id": 27513,
+        "slug": "old-school-throws-confluence",
+        "url": "https://yoyoarchive.org/products/old-school-throws-confluence",
+        "type": "product",
+        "title": "Confluence",
+        "date_modified": "2026-10-17",
+        "content": "Old School Throws Confluence is an organic bimetal yo-yo with a 6061 aluminum body and stainless steel perimeter rings. Its cup design draws on the Resto, while its larger proportions recall the Medallion.The FIU collector list records a September 15, 2020 Unknown edition with a reported total of 25; the official listing says 21 were offered publicly. Those details describe the edition, not a confirmed exact base-model launch date. A 4.25 mm gap has been reported by an owner and remains unverified.Sources: Old School Throws product listing; Old School Throws model catalog.",
+        "meta": {
+            "yya_diameter": "53.0mm",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/old-school-throws-confluence-01.webp",
+                    "title": "old-school-throws-confluence-01",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2020",
+            "yya_weight": "62.1g",
+            "yya_width": "45.8mm"
+        },
+        "terms": {
+            "yya_material": [
+                "6061",
+                "stainless-steel"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "old-school-throws",
+                    "url": "https://yoyoarchive.org/companies/old-school-throws",
+                    "title": "Old School Throws"
+                }
+            ]
+        },
+        "folio": 4431
+    },
+    {
         "id": 8925,
         "slug": "omega",
         "url": "https://yoyoarchive.org/products/omega",
@@ -108987,6 +109417,46 @@
             ]
         },
         "folio": 3626
+    },
+    {
+        "id": 27498,
+        "slug": "pdx-yo-batsquatch",
+        "url": "https://yoyoarchive.org/products/pdx-yo-batsquatch",
+        "type": "product",
+        "title": "Batsquatch",
+        "date_modified": "2026-10-17",
+        "content": "Batsquatch is a 2019 bi-metal yo-yo from PDX-YO, made from 7075 aluminum with plated stainless steel rings. It measures 54.5 mm in diameter by 44 mm wide and weighs 63.3 g, with a C Center Track bearing. Public preorders and September 2019 owner records document its retail release.The 7068 aluminum Batsquatch is a separate 2020 revision. OhYesYo’s purple-and-black artist edition image is used here; that artist edition does not make OhYesYo a general collaborator.",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "54.5",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/pdx-yo-batsquatch-01.webp",
+                    "title": "PDX-YO Batsquatch, OhYesYo purple and black artist edition",
+                    "type": "image/webp"
+                }
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2019",
+            "yya_weight": "63.3",
+            "yya_width": "44"
+        },
+        "terms": {
+            "yya_material": [
+                "7075",
+                "stainless-steel"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "pdx-yo",
+                    "url": "https://yoyoarchive.org/companies/pdx-yo",
+                    "title": "PDX-YO"
+                }
+            ]
+        },
+        "folio": 4429
     },
     {
         "id": 19304,
@@ -124367,6 +124837,48 @@
         "folio": 3074
     },
     {
+        "id": 27515,
+        "slug": "sense-answer",
+        "url": "https://yoyoarchive.org/products/sense-answer",
+        "type": "product",
+        "title": "Answer",
+        "date_modified": "2026-10-17",
+        "content": "Answer is a YoYoPalace bimetal yo-yo now listed by Spinkult under SENSE, the successor name for YoYoPalace. Its 7075 aluminum body has stainless steel rings. This record covers the Answer model; Journey is a separate yo-yo in the Answer Series.The FIU collector list records a December 14, 2020 Unknown edition with a reported quantity of 30. This is edition information, not a confirmed base-model launch day.Source: Spinkult Answer listing.",
+        "meta": {
+            "yya_axle": "M4×8mm",
+            "yya_bearing_size": "C",
+            "yya_diameter": "56.93mm",
+            "yya_gallery_images": [
+                {
+                    "url": "https://yoyoarchive.org/wp-content/uploads/2026/10/sense-answer-unknown-01.webp",
+                    "title": "sense-answer-unknown-01",
+                    "type": "image/jpeg"
+                }
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2020",
+            "yya_response": "19mm response pads",
+            "yya_weight": "64.8g",
+            "yya_width": "44.18mm"
+        },
+        "terms": {
+            "yya_material": [
+                "7075",
+                "stainless-steel"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "sense-yoyo",
+                    "url": "https://yoyoarchive.org/companies/sense-yoyo",
+                    "title": "SENSE YOYO"
+                }
+            ]
+        },
+        "folio": 4432
+    },
+    {
         "id": 22627,
         "slug": "sense-yoyo-a-mono2",
         "url": "https://yoyoarchive.org/products/sense-yoyo-a-mono2",
@@ -125642,6 +126154,30 @@
         "folio": 1109
     },
     {
+        "id": 27522,
+        "slug": "sf-bd",
+        "url": "https://yoyoarchive.org/products/sf-bd",
+        "type": "product",
+        "title": "BD",
+        "date_modified": "2026-10-17",
+        "content": "BD is an SF Yoyos retail yo-yo offered through a surprise preorder associated with Blind Date and birthday marketing. The model has multiple engraved designs and mixed-half variants documented by owners; these are variants of one model.Sources: 2023 preorder and owner discussion; SF production and shipping updates.",
+        "meta": {
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2023"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "sf-yoyos",
+                    "url": "https://yoyoarchive.org/companies/sf-yoyos",
+                    "title": "SF Yoyos"
+                }
+            ]
+        },
+        "folio": 4436
+    },
+    {
         "id": 20433,
         "slug": "sf-yoyos-bliss",
         "url": "https://yoyoarchive.org/products/sf-yoyos-bliss",
@@ -125875,8 +126411,8 @@
         "url": "https://yoyoarchive.org/products/sf-yoyos-dk",
         "type": "product",
         "title": "DK",
-        "date_modified": "2026-06-06",
-        "content": "History / About\nThe DK is a collaboration between SF Yoyos and A-RT (Turning Point's arts label), released in 2018. The design was inspired by a doorknob profile — a deliberately unusual shape that prioritizes aesthetic expression over competitive performance. Its hollow aluminum construction keeps weight to just 62.8 grams. Multiple anodized colorways were produced including silver, pink, black, and gold blast.",
+        "date_modified": "2026-10-16",
+        "content": "History / About\nThe DK is a collaboration between SF Yoyos and A-RT (Alternate Return Tops), released in 2018. The design was inspired by a doorknob profile — a deliberately unusual shape that prioritizes aesthetic expression over competitive performance. Its hollow aluminum construction keeps weight to just 62.8 grams. Multiple anodized colorways were produced including silver, pink, black, and gold blast.",
         "meta": {
             "yya_axle": "M4 x 10mm",
             "yya_bearing_size": "Size C",
@@ -125910,9 +126446,9 @@
                     "title": "SF Yoyos"
                 },
                 {
-                    "slug": "turning-point",
-                    "url": "https://yoyoarchive.org/companies/turning-point",
-                    "title": "Turning Point"
+                    "slug": "a-rt",
+                    "url": "https://yoyoarchive.org/companies/a-rt",
+                    "title": "A-RT (Alternate Return Tops)<span style=\"color:var(--wp--preset--color--crimson)\" aria-hidden=\"true\">*</span>"
                 }
             ]
         },
@@ -150378,6 +150914,39 @@
             ]
         },
         "folio": 4280
+    },
+    {
+        "id": 27521,
+        "slug": "throwing-sideways-parthenon",
+        "url": "https://yoyoarchive.org/products/throwing-sideways-parthenon",
+        "type": "product",
+        "title": "The Parthenon",
+        "date_modified": "2026-10-17",
+        "content": "The Parthenon is an organic bimetal yo-yo from Throwing Sideways, described as a revised Sistine design with a 7068 aluminum body and stainless steel inner rim. A 2021 fundraiser reported that the initial production shipment was stolen and sought replacement preorders; its early-November target does not establish the first retail date. A retailer later listed the model, including an Unknown colorway.Sources: 2021 fundraiser; retailer listing.",
+        "meta": {
+            "yya_diameter": "55",
+            "yya_gap_width": "4.45",
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2021",
+            "yya_weight": "62.5",
+            "yya_width": "45"
+        },
+        "terms": {
+            "yya_material": [
+                "7068",
+                "stainless-steel"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "throwing-sideways",
+                    "url": "https://yoyoarchive.org/companies/throwing-sideways",
+                    "title": "Throwing Sideways"
+                }
+            ]
+        },
+        "folio": 4435
     },
     {
         "id": 19493,
@@ -194381,6 +194950,189 @@
         "folio": 1731
     },
     {
+        "id": 27481,
+        "slug": "yoyofreaks-bi-mom",
+        "url": "https://yoyoarchive.org/products/yoyofreaks-bi-mom",
+        "type": "product",
+        "title": "Bi-mom",
+        "date_modified": "2026-10-16",
+        "content": "Bi-mom, also written Bimom, is a YoYoFREAKS model described by collectors as an organic bimetal yo-yo. The Unknown collectors’ ledger documents an edition in March 2018. Owner discussions distinguish it from the original aluminum Your Mom.\n\nDocumentation notes\n\nReleased production identity is collector-documented: the Unknown ledger lists March 2, 2018 and ten edition pieces, and independent owner discussions identify the bimetal model. Original retail announcement, exact initial base-model launch date, total production, all numerical specifications, bearing, response, axle, exact metals/alloys and formal play-style classification remain unverified. The 2018 year records documented edition availability rather than a proven first base-model launch. Do not transfer original Your Mom specifications. No clean image found. No collaborating company established.\n\nSources\n\nContemporary owner discussion of organic bimetalsOwner sale identifying bimetal Your MomUnknown edition collector ledgerArchive FIU collectors’ list",
+        "meta": {
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2018"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofreaks",
+                    "url": "https://yoyoarchive.org/companies/yoyofreaks",
+                    "title": "YoYoFREAKS"
+                }
+            ]
+        },
+        "folio": 4424
+    },
+    {
+        "id": 27497,
+        "slug": "yoyofreaks-freak",
+        "url": "https://yoyoarchive.org/products/yoyofreaks-freak",
+        "type": "product",
+        "title": "Freak",
+        "date_modified": "2026-10-17",
+        "content": "Freak is a 2019 mono-metal yo-yo from YoYoFREAKS and a SuperFreak derivative. The 6061 aluminum design has a fingerspin cup and more central weighting. The brand described a run of 100 individually numbered yo-yos across ten colorways.",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_play_style": [
+                "1a"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2019",
+            "yya_response": "White Buddha 19 mm pads",
+            "yya_weight": "66.5"
+        },
+        "terms": {
+            "yya_material": [
+                "6061"
+            ],
+            "yya_play_style": [
+                "1a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofreaks",
+                    "url": "https://yoyoarchive.org/companies/yoyofreaks",
+                    "title": "YoYoFREAKS"
+                }
+            ]
+        },
+        "folio": 4428
+    },
+    {
+        "id": 27462,
+        "slug": "yoyofreaks-hashtag",
+        "url": "https://yoyoarchive.org/products/yoyofreaks-hashtag",
+        "type": "product",
+        "title": "Hashtag",
+        "date_modified": "2026-10-16",
+        "content": "Hashtag, styled as #, is a compact bimetal yo-yo in the YoYoFREAKS Hundred Series. Its 41.9 mm diameter and 38.85 mm width make it nearly as wide as it is tall. The brand-store record documents a C bearing and 19 mm CBC response pads.\n\nDocumentation notes\n\nBrand-store page confirms bimetal construction but not exact alloys; a contemporary owner review reports an aluminum body and internal stainless-steel rings. Those material details remain owner-reported/unverified and are not assigned as material taxonomy. Exact initial launch day, gap, axle and play-style classification remain unverified. 2017 retail availability is confirmed by the store/review. May 17, 2017 and ten pieces refer to the FIU edition. Brand image host fails TLS; no clean image found. No collaborating company established.\n\nSources\n\nYoYoBESTBUY brand-store record (indexed; live host unverified)Contemporary owner reviewArchive FIU collectors’ list (edition context)",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "41.9",
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2017",
+            "yya_response": "19mm CBC pads",
+            "yya_weight": "66",
+            "yya_width": "38.85"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofreaks",
+                    "url": "https://yoyoarchive.org/companies/yoyofreaks",
+                    "title": "YoYoFREAKS"
+                }
+            ]
+        },
+        "folio": 4419
+    },
+    {
+        "id": 27478,
+        "slug": "yoyofreaks-pound",
+        "url": "https://yoyoarchive.org/products/yoyofreaks-pound",
+        "type": "product",
+        "title": "Pound",
+        "date_modified": "2026-10-16",
+        "content": "Pound is a bimetal model in the YoYoFREAKS Hundred Series. A contemporary October 2017 review identifies it as the third series model and describes a recessed fingerspin dimple. The brand later used its shape as the basis for the Delrin Sharp.\n\nDocumentation notes\n\nPublic retail release in 2017 is supported by the October 4, 2017 unboxing/review, which reports the model sold out. Diameter, width, weight, gap, axle, bearing, response, exact metals/alloys, formal play-style classification, launch price and exact initial launch day remain unverified. Do not copy Sharp specifications: Sharp is a different Delrin model. The collector ledger records August 8, 2017 and ten pieces for the Unknown edition, not the base model launch or total production. Brand-store source text was verified through the search index; its live host fails TLS. No clean image found. No company collaborator established.\n\nSources\n\nContemporary Throws N’ Brews review, October 4, 2017Brand Sharp record identifying its Pound predecessor (indexed; live host unverified)Unknown edition collector ledgerArchive FIU collectors’ list",
+        "meta": {
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2017"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofreaks",
+                    "url": "https://yoyoarchive.org/companies/yoyofreaks",
+                    "title": "YoYoFREAKS"
+                }
+            ]
+        },
+        "folio": 4422
+    },
+    {
+        "id": 27482,
+        "slug": "yoyofreaks-superfreak",
+        "url": "https://yoyoarchive.org/products/yoyofreaks-superfreak",
+        "type": "product",
+        "title": "SuperFreak",
+        "date_modified": "2026-10-16",
+        "content": "SuperFreak is a Johnnie Delvalle YoYoFREAKS design with a fingerspin cup and rim-focused weighting. The brand-store record lists a 57 mm diameter, 66.5 g weight and 4.50 mm gap, with a C bearing and 19 mm CBC-sized response pads. Retail availability is documented in 2018.\n\nDocumentation notes\n\nBrand-store specifications and September 4, 2018 retail review independently checked in indexed primary text; live host fails TLS. Width, axle, exact metals/alloys, launch price, formal play-style classification and exact initial launch day remain unverified. A contemporary owner describes bimetal construction, but exact materials are not assigned as taxonomy. The FIU ledger’s June 23, 2018 SF entry is probably SuperFreak, supported by brand photo filenames yyf-sf and an owner sale naming an Unknown Super Freak. This alias and its exact edition-date mapping remain inferred/unverified; do not treat as an established match for public article linking. No clean image found. No collaborating company established.\n\nSources\n\nBrand SuperFreak product record (indexed; live host unverified)Contemporary owner contest identifying bimetal modelOwner sale naming Unknown Super FreakUnknown edition collector ledgerArchive FIU collectors’ list",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "57",
+            "yya_gap_width": "4.50",
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2018",
+            "yya_response": "19mm CBC-sized pads",
+            "yya_weight": "66.5"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofreaks",
+                    "url": "https://yoyoarchive.org/companies/yoyofreaks",
+                    "title": "YoYoFREAKS"
+                }
+            ]
+        },
+        "folio": 4425
+    },
+    {
+        "id": 27459,
+        "slug": "yoyofreaks-your-mom",
+        "url": "https://yoyoarchive.org/products/yoyofreaks-your-mom",
+        "type": "product",
+        "title": "Your Mom",
+        "date_modified": "2026-10-16",
+        "content": "Your Mom is Johnnie Delvalle’s first YoYoFREAKS Hundred Series yo-yo. The 6061 aluminum model was offered as an unresponsive string-trick design with a matte finish and a Buddha Dimple bearing. The brand-store record gives a January 25, 2017 release.\n\nDocumentation notes\n\nBrand product page specifies 67.9 g; its prose rounds this to 68 g. Specifications and release were independently checked against indexed brand-store text; the live host now fails TLS verification. Axle length remains unverified. The FIU list’s ten-piece Unknown edition is an edition count, not total model production. No clean image found; brand images fail TLS. Buddha is a component vendor, not a collaborating company.\n\nSources\n\nYoYoBESTBUY brand-store record (indexed; live host unverified)Archive FIU collectors’ list (edition context)",
+        "meta": {
+            "yya_bearing_size": "C",
+            "yya_diameter": "56",
+            "yya_gap_width": "4.25",
+            "yya_play_style": [
+                "1A"
+            ],
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2017",
+            "yya_response": "White Buddha 19mm pads",
+            "yya_weight": "67.9",
+            "yya_width": "44.2"
+        },
+        "terms": {
+            "yya_material": [
+                "6061"
+            ],
+            "yya_play_style": [
+                "1a"
+            ]
+        },
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "yoyofreaks",
+                    "url": "https://yoyoarchive.org/companies/yoyofreaks",
+                    "title": "YoYoFREAKS"
+                }
+            ]
+        },
+        "folio": 4417
+    },
+    {
         "id": 20624,
         "slug": "yoyofriends-recoil",
         "url": "https://yoyoarchive.org/products/yoyofriends-recoil",
@@ -203679,6 +204431,30 @@
         "folio": 2632
     },
     {
+        "id": 27520,
+        "slug": "zipline-ist",
+        "url": "https://yoyoarchive.org/products/zipline-ist",
+        "type": "product",
+        "title": "-ist",
+        "date_modified": "2026-10-17",
+        "content": "-ist is a yo-yo designed by ZipLine Strings teammate Paul Harness and released with ZipLine in February 2021. An earlier December 2020 giveaway featured a prototype before the planned retail release.Sources: February 2021 launch announcement; December 2020 prototype giveaway.",
+        "meta": {
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2021"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "zipline-strings",
+                    "url": "https://yoyoarchive.org/companies/zipline-strings",
+                    "title": "ZipLine Strings"
+                }
+            ]
+        },
+        "folio": 4434
+    },
+    {
         "id": 19120,
         "slug": "zipline-kot-n",
         "url": "https://yoyoarchive.org/products/zipline-kot-n",
@@ -203876,6 +204652,35 @@
             ]
         },
         "folio": 2635
+    },
+    {
+        "id": 27519,
+        "slug": "zipline-sf-bmc",
+        "url": "https://yoyoarchive.org/products/zipline-sf-bmc",
+        "type": "product",
+        "title": "BMC",
+        "date_modified": "2026-10-17",
+        "content": "BMC (Backmasked Cadence) is a retail yo-yo produced by ZipLine Strings with SF. ZipLine’s project archive recounts the companies’ agreement to produce SF’s first Cadence prototype as a commercial release in 2020.Sources: ZipLine Projects Archive; August 2020 release-day review.",
+        "meta": {
+            "yya_product_type": "Yo-yo",
+            "yya_release": "2020"
+        },
+        "terms": {},
+        "relations": {
+            "yya_company": [
+                {
+                    "slug": "zipline-strings",
+                    "url": "https://yoyoarchive.org/companies/zipline-strings",
+                    "title": "ZipLine Strings"
+                },
+                {
+                    "slug": "sf-yoyos",
+                    "url": "https://yoyoarchive.org/companies/sf-yoyos",
+                    "title": "SF Yoyos"
+                }
+            ]
+        },
+        "folio": 4433
     },
     {
         "id": 19118,

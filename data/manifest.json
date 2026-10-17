@@ -1,15 +1,29 @@
 {
     "counts": {
-        "product": 4254,
-        "company": 272,
+        "product": 4275,
+        "company": 277,
         "catalog": 19,
         "competition": 600,
         "article": 22,
-        "story": 4,
+        "story": 5,
         "review": 90,
         "profile": 132,
         "yya_media": 9
     },
     "license": "CC BY-SA 4.0",
-    "source": "https://yoyoarchive.org"
+    "source": "https://yoyoarchive.org",
+    "version": "2026.10.17",
+    "generated": "2026-10-17T21:51:17+00:00",
+    "sha256": {
+        "data/product.json": "582ef632fc1a3a5aad16221505eaf986b6e01b40aada6ddee2d2f9a7d1a0c7f2",
+        "data/company.json": "e80f2fc27bd95076e697676dfc4729a4b4cb8aedd880df57f5bcebd68cee1a6c",
+        "data/catalog.json": "11c87327542322f63468ef03e9fe50ed8eedeb6800071b58df17197ddd2fb8a1",
+        "data/competition.json": "da8defff6543bd19f75b164bdd2b3299a5ecfb9200abc52a7576e8b5cdff8af0",
+        "data/article.json": "8b9438146a2cc063fb265abad6bf3d54cf90714264bcee9cb46329b5395ebb15",
+        "data/story.json": "cb27061cdde385af128fd864afb91c4c58327715cff5543582c0857759f6c106",
+        "data/review.json": "c45f22e6930971e645112e9f1aa8e0836bfcbdedb852328e02aa7fd16bcf2ed2",
+        "data/profile.json": "d942f6e18505c07002ce434c257f29b8a4b6a782d5eb381f65e3f3e6e6f77dbd",
+        "data/media.json": "3f89a765cc35225a836146f88dafb660fc01e8a14f2095aa270aa56f6ea58448",
+        "data/taxonomies.json": "50f161d7f986fb7131a77c7be601ca62318476a8cf1d7a0c7d2896b0133b44e5"
+    }
 }
