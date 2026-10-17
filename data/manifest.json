@@ -13,9 +13,9 @@
     "license": "CC BY-SA 4.0",
     "source": "https://yoyoarchive.org",
     "version": "2026.10.17",
-    "generated": "2026-10-17T21:51:17+00:00",
+    "generated": "2026-10-17T22:26:14+00:00",
     "sha256": {
-        "data/product.json": "582ef632fc1a3a5aad16221505eaf986b6e01b40aada6ddee2d2f9a7d1a0c7f2",
+        "data/product.json": "def08e55465a596c2fe8a0b3d2e87df56fb973ef51f801c500d03e08d8f206ed",
         "data/company.json": "e80f2fc27bd95076e697676dfc4729a4b4cb8aedd880df57f5bcebd68cee1a6c",
         "data/catalog.json": "11c87327542322f63468ef03e9fe50ed8eedeb6800071b58df17197ddd2fb8a1",
         "data/competition.json": "da8defff6543bd19f75b164bdd2b3299a5ecfb9200abc52a7576e8b5cdff8af0",

@@ -3,6 +3,7 @@
 ## 2026-10-17
 
 - product 4275 (+21), company 277 (+5), story 5 (+1). Article content updates. Other counts unchanged.
+- Product lineage: 543 products now carry `yya_variant_of`, `yya_successor_of` or `yya_prototype_of` relations (title-derived; some may be inaccurate, report via an issue).
 
 ## 2026-10-13
 
